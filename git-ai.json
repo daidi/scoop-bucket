@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/daidi/git-ai/releases/download/v0.2.0/git-ai_windows_amd64.zip",
+            "bin": [
+                "git-ai.exe"
+            ],
+            "hash": "e63c4bbad6e6357eda01486fba936d6555804b753ae3ecc8f6201148eed60507"
+        },
+        "arm64": {
+            "url": "https://github.com/daidi/git-ai/releases/download/v0.2.0/git-ai_windows_arm64.zip",
+            "bin": [
+                "git-ai.exe"
+            ],
+            "hash": "345aca38903a733c845f7b90cd342a63b6f5d47bc0397a044363810950fc3eca"
+        }
+    },
+    "homepage": "https://github.com/daidi/git-ai",
+    "license": "MIT",
+    "description": "AI-powered Git commit message enhancer"
+}
