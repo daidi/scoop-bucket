@@ -1,19 +1,19 @@
 {
-    "version": "0.4.2",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/daidi/git-ai/releases/download/v0.4.2/git-ai_windows_amd64.zip",
+            "url": "https://github.com/daidi/git-ai/releases/download/v1.0.0/git-ai_windows_amd64.zip",
             "bin": [
                 "git-ai.exe"
             ],
-            "hash": "2d4d6b836d01cb2c66bc76301702a5e1cc0f59922bde2d20adb44769bfc5d7ba"
+            "hash": "91d3a58b40c11eba149f30e5cf5a71d2a91aff3c113d296cf877c89456632e4a"
         },
         "arm64": {
-            "url": "https://github.com/daidi/git-ai/releases/download/v0.4.2/git-ai_windows_arm64.zip",
+            "url": "https://github.com/daidi/git-ai/releases/download/v1.0.0/git-ai_windows_arm64.zip",
             "bin": [
                 "git-ai.exe"
             ],
-            "hash": "f901e989d23923020d2d7440817838e996f78cda7e2c80328a95fce25f3f77aa"
+            "hash": "85d6189d6630a50ea87ae47eec3eda54a0bea1e789b89dd1e1c976c17b274915"
         }
     },
     "homepage": "https://github.com/daidi/git-ai",
